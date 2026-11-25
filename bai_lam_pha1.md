@@ -117,6 +117,7 @@ Nhóm cổ động viên đi xem trận bán kết, mua gói SVT, gồm 5 ngư�
 </data>
 
 hãy đóng vai là một người tính tiền vé và báo giá cho khác hàng,không làm gì thêm ngoài việc tính tiền vé và báo cho khách,sử dụng quy định của <data> để tính.
+ yêu cầu: suy luận từng bước theo thứ tự tiền người lớn → tiền trẻ em → tiền vé → giảm giá nhóm → phụ thu → tổng tiền, mỗi bước ghi phép tính; dòng cuối có dạng [RESULT: <tổng tiền> đồng].
 
 
 
