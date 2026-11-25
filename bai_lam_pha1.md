@@ -31,7 +31,7 @@
 (Viết câu 1 và câu 2 vào đây – xoá dòng này)
 Câu 1: Caution:-chỉ trả lời dựa trên file đính kèm chính sách hoàn/huỷ vé
                -nếu thông tin khách hàng hỏi không có trong file chính sách hoàn/huỷ vé thì hãy nói với khác hàng:"Nội dung thắc mắc của bạn hiện chưa được quy định rõ,xin vui lòng liên hệ với quản lý sân để được tư vấn trực tiếp". Không tự ý bịa nội dung không có thật 
-Câu 2:
+Câu 2: ghi rõ câu trả lời lấy từ mục hoặc điều khoản nào trong file chính sách hoàn/huỷ vé
 ```
 
 ## 4.2. Trích xuất tin nhắn đặt vé ra JSON
