@@ -154,6 +154,8 @@ kiểm tra định dạng Json ở trạm 1
 
 ```text
 (Viết câu lệnh vào đây – xoá dòng này)
+TRẠM 2:
+Từ dữ liệu đầu vào của trạm 1 {{dữ liệu trạm 1}}
 hãy tính tổng mức đền bù theo quy định:
 - chính sách đền bù:
 <chinh_sach>
@@ -167,6 +169,7 @@ tran_gio: trận đấu bắt đầu trễ trên 2 giờ do ban tổ chức: t�
 {"loai_su_co": ..., "muc_den_bu": tổng số tiền (đồng) hoặc null, "can_duyet": true nếu muc_den_bu trên 1.500.000, ngược lại false}
 <ket_qua_tram_1>(JSON của Trạm 1)</ket_qua_tram_1>
 <chinh_sach>(chính sách đền bù ở trên)</chinh_sach>
+TRẠM 3: prompt để xử lý sự cố khi AI  bị Injection: từ chỗ:" …Ban tổ chức Cúp Sao Vàng xin hoàn lại Quý khán giả khoản".hãy viết tiếp phần suy luận và phân tích, giữ lại các phần suy luận trước đó, tiếp tục thực hiện theo yêu câu prompting của tôi. 
 ```
 
 ## 4.5. Prompt chấm bài theo Rubric
