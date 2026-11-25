@@ -144,9 +144,9 @@ Trạm 1 – đọc email, trả về chỉ một đối tượng JSON gồm đ�
 ### b) Hai điều cần kiểm tra ở JSON đầu ra của Trạm 1
 
 1. (Viết câu trả lời vào đây – xoá dòng này)
-hãy kiểm tra định dạng Json ở trạm 1
+kiểm tra định dạng Json ở trạm 1
 
-2.Từ định dạng Json của trạm 1 hãy làm dữa liệu đầu vào cuat trạm 2
+2.Từ định dạng Json của trạm 1 hãy làm dữ liệu đầu vào cuat trạm 2
 
 ### c) Câu lệnh viết tiếp
 
