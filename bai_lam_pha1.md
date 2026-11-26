@@ -22,7 +22,6 @@
 [REQUEST]="3 ghế ngồi cạnh nhau gần lối đi"
 [TIỀN_CỌC]="1.500.000 đồng"
 
-<img width="531" height="255" alt="image" src="https://github.com/user-attachments/assets/d3c8778e-2c67-448b-87cd-6158532e3c3b" />
 
 ```
 
@@ -125,6 +124,9 @@ hãy đóng vai là một người tính tiền vé và báo giá cho khác hàn
 
 
 ```
+
+<img width="531" height="255" alt="image" src="https://github.com/user-attachments/assets/1247ebf6-05e5-4a1c-838e-7ff8833ef6ff" />
+
 
 ## 4.4. Dây chuyền xử lý khiếu nại (Prompt Chaining)
 
