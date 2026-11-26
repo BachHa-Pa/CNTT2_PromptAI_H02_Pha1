@@ -21,6 +21,9 @@
 [THÔNG_TIN_VÉ]="đặt 3 vé gói SVT trận bán kết Cúp Sao Vàng ngày 18/12/2026 cho 2 người lớn và 1 trẻ em 9 tuổi"
 [REQUEST]="3 ghế ngồi cạnh nhau gần lối đi"
 [TIỀN_CỌC]="1.500.000 đồng"
+
+<img width="531" height="255" alt="image" src="https://github.com/user-attachments/assets/d3c8778e-2c67-448b-87cd-6158532e3c3b" />
+
 ```
 
 ### b) Hai câu lệnh chống ảo giác
